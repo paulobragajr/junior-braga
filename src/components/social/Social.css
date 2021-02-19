@@ -1,0 +1,38 @@
+
+.ul-social{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.ul-social::after{
+    content: '';
+    display: block;
+    width: 1px;
+    height: 90px;
+    margin: 0 auto;
+    background-color: #a8b2d1;
+}
+
+.li-social{
+ 
+}
+.a-social{
+    padding: 10px;   
+}
+svg {
+    width: 20px;
+    height: 20px;
+    color: var(--green);
+  }
+.a-social:focus {
+    transform: translateY(-3px);
+  }
+.a-social:hover,
+
+.li-social:last-of-type {
+    margin-bottom: 20px;
+}
