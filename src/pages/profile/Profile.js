@@ -3,6 +3,7 @@ import HeaderProfile from "./headerprofile/HeaderProfile";
 import AboutMe from "./aboutme/AboutMe";
 import { JBHeader } from "../../components";
 import Social from "../../components/social/Social";
+import Skills from "../../components/skills/Skills";
 
 function Profile() {
   return (

@@ -1,6 +1,7 @@
 import { Constants } from "../../../assets/const/Constants";
 import "./AboutMe.css";
 import Fade from "react-reveal/Fade";
+import Skills from "../../../components/skills/Skills";
 
 function AboutMe() {
   var date = new Date();
@@ -23,6 +24,7 @@ function AboutMe() {
             </div>
           </div>
         </div>
+        <Skills />
       </div>
     </Fade>
   );

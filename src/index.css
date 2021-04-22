@@ -5,8 +5,7 @@ html {
 
 body {
   margin: 0;
-  min-height: 100%;
-  
+  min-height: 100%; 
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -26,9 +25,10 @@ code {
   --text-secondary:#8892b0;
   --slate: #8892b0;
   --light-slate: #a8b2d1;
-  --green:#64ffda;
+  --primary-color:#ffae57;
   --primary:#041630;
   --background:#041630;
+
 
   --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
   --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
@@ -47,7 +47,7 @@ code {
 
 .txt_info{
   font-family: 'SF Mono','Fira Code','Fira Mono','Roboto Mono', monospace;
-  color: var(--green);
+  color: var(--primary-color);
   margin: 0px 0px 30px 4px;
   font-size: 18px;
   font-weight: 400;
@@ -82,7 +82,7 @@ code {
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-  background-color: var(--background);
+  background-color: #000518;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -91,11 +91,11 @@ code {
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
-  color: var(--green);
+  color: var(--primary-color);
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: var(--green);
+  color: var(--primary-color);
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
@@ -108,12 +108,12 @@ code {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  color: var(--green);
+  color: var(--primary-color);
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-  color: var(--green) !important;
+  color: var(--primary-color) !important;
   background-color: transparent;
 }
 

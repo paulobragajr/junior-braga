@@ -26,7 +26,7 @@
 svg {
     width: 20px;
     height: 20px;
-    color: var(--green);
+    color: var(--primary-color);
   }
 .a-social:focus {
     transform: translateY(-3px);

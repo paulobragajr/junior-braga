@@ -30,4 +30,13 @@ export const Constants = {
       url: "https://www.linkedin.com/in/paulo-braga-de-assis-junior-0ab54a101/",
     },
   ],
+
+  skills: [
+    "Java",
+    "Kotlin",
+    "Swift",
+    "React Native",
+    "React.js",
+    "JavaScript (ES6+)",
+  ],
 };
