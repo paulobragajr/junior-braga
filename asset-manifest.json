@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/junior-braga/static/css/main.982a59d9.chunk.css",
-    "main.js": "/junior-braga/static/js/main.e0393359.chunk.js",
-    "main.js.map": "/junior-braga/static/js/main.e0393359.chunk.js.map",
-    "runtime-main.js": "/junior-braga/static/js/runtime-main.030ded2a.js",
-    "runtime-main.js.map": "/junior-braga/static/js/runtime-main.030ded2a.js.map",
-    "static/js/2.52c10359.chunk.js": "/junior-braga/static/js/2.52c10359.chunk.js",
-    "static/js/2.52c10359.chunk.js.map": "/junior-braga/static/js/2.52c10359.chunk.js.map",
-    "static/js/3.b9d2b33e.chunk.js": "/junior-braga/static/js/3.b9d2b33e.chunk.js",
-    "static/js/3.b9d2b33e.chunk.js.map": "/junior-braga/static/js/3.b9d2b33e.chunk.js.map",
+    "main.css": "/junior-braga/static/css/main.d3c91211.chunk.css",
+    "main.js": "/junior-braga/static/js/main.f8207b51.chunk.js",
+    "main.js.map": "/junior-braga/static/js/main.f8207b51.chunk.js.map",
+    "runtime-main.js": "/junior-braga/static/js/runtime-main.42642660.js",
+    "runtime-main.js.map": "/junior-braga/static/js/runtime-main.42642660.js.map",
+    "static/js/2.d900d3d6.chunk.js": "/junior-braga/static/js/2.d900d3d6.chunk.js",
+    "static/js/2.d900d3d6.chunk.js.map": "/junior-braga/static/js/2.d900d3d6.chunk.js.map",
+    "static/js/3.36148ba5.chunk.js": "/junior-braga/static/js/3.36148ba5.chunk.js",
+    "static/js/3.36148ba5.chunk.js.map": "/junior-braga/static/js/3.36148ba5.chunk.js.map",
     "index.html": "/junior-braga/index.html",
-    "static/css/main.982a59d9.chunk.css.map": "/junior-braga/static/css/main.982a59d9.chunk.css.map",
-    "static/js/2.52c10359.chunk.js.LICENSE.txt": "/junior-braga/static/js/2.52c10359.chunk.js.LICENSE.txt",
-    "static/media/icon_pj.dbbe77b9.ico": "/junior-braga/static/media/icon_pj.dbbe77b9.ico"
+    "static/css/main.d3c91211.chunk.css.map": "/junior-braga/static/css/main.d3c91211.chunk.css.map",
+    "static/js/2.d900d3d6.chunk.js.LICENSE.txt": "/junior-braga/static/js/2.d900d3d6.chunk.js.LICENSE.txt",
+    "static/media/icon_pj.74f0e3b1.ico": "/junior-braga/static/media/icon_pj.74f0e3b1.ico"
   },
   "entrypoints": [
-    "static/js/runtime-main.030ded2a.js",
-    "static/js/2.52c10359.chunk.js",
-    "static/css/main.982a59d9.chunk.css",
-    "static/js/main.e0393359.chunk.js"
+    "static/js/runtime-main.42642660.js",
+    "static/js/2.d900d3d6.chunk.js",
+    "static/css/main.d3c91211.chunk.css",
+    "static/js/main.f8207b51.chunk.js"
   ]
 }
