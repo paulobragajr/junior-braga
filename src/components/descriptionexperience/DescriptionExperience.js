@@ -16,7 +16,6 @@ function DescriptionExperience({ experience }) {
       <br />
       <text className="txt_detail detail ">{locality}</text>
       <hr />
-      <br />
 
       <SimpleList data={description.data} isGrid={description.isGrid} />
     </div>
