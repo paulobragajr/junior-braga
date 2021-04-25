@@ -47,7 +47,7 @@ export const Constants = {
       experience: {
         positionInCompany: "Mobile Development Leader",
         admissionDate: "De Setembro de 2019 - até o momento",
-        locality: "Localidade Brasília, Distrito Federal, Brasil",
+        locality: "Brasília, Distrito Federal, Brasil",
         description: {
           isGrid: false,
           data: [
@@ -62,7 +62,7 @@ export const Constants = {
       experience: {
         positionInCompany: "Mobile & Web Developer",
         admissionDate: "De Setembro de 2018 - até o momento",
-        locality: "Localidade Brasília, Distrito Federal, Brasil",
+        locality: "Brasília, Distrito Federal, Brasil",
         description: {
           isGrid: true,
           data: [
@@ -83,7 +83,7 @@ export const Constants = {
       experience: {
         positionInCompany: "Mobile & Web Developer",
         admissionDate: "De Janeiro de 2017 - Setembro de 2018",
-        locality: "Localidade Brasília, Distrito Federal, Brasil",
+        locality: "Brasília, Distrito Federal, Brasil",
         description: {
           isGrid: true,
           data: ["Android Java ", "IOS ( Swift )", "Java Web", "PrimeFaces"],
@@ -96,7 +96,7 @@ export const Constants = {
       experience: {
         positionInCompany: "Mobile Developer",
         admissionDate: "De Julho de 2015 - Jneiro de 2017",
-        locality: "Localidade Brasília, Distrito Federal, Brasil",
+        locality: "Brasília, Distrito Federal, Brasil",
         description: {
           isGrid: true,
           data: ["Windows Phone( C# )", "Android Java "],
