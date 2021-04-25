@@ -39,4 +39,69 @@ export const Constants = {
     "React.js",
     "JavaScript (ES6+)",
   ],
+
+  experiences: [
+    {
+      company: "Stefanini",
+      active: true,
+      experience: {
+        positionInCompany: "Mobile Development Leader",
+        admissionDate: "De Setembro de 2019 - até o momento",
+        locality: "Localidade Brasília, Distrito Federal, Brasil",
+        description: {
+          isGrid: false,
+          data: [
+            "Atuação na liderança de projetos utilizando principalmente metodologias ágeis, acompanhamento de desenvolvimento, reportando ao gerente e ao cliente, apresentação de resultados, facilitação, líder motivacional, além de ampla experiência técnica utilizada para contribuir com o desenvolvimento como implantação de arquitetura, revisão de código, CI / CD, entre outros. ",
+          ],
+        },
+      },
+    },
+    {
+      company: "Stefanini",
+      active: false,
+      experience: {
+        positionInCompany: "Mobile & Web Developer",
+        admissionDate: "De Setembro de 2018 - até o momento",
+        locality: "Localidade Brasília, Distrito Federal, Brasil",
+        description: {
+          isGrid: true,
+          data: [
+            "Android Kotlin ",
+            "Android Java ",
+            "IOS ( Swift )",
+            "React Navite",
+            "ReactJS",
+            "Angular",
+            "Java Web",
+          ],
+        },
+      },
+    },
+    {
+      company: "SpeedWay",
+      active: false,
+      experience: {
+        positionInCompany: "Mobile & Web Developer",
+        admissionDate: "De Janeiro de 2017 - Setembro de 2018",
+        locality: "Localidade Brasília, Distrito Federal, Brasil",
+        description: {
+          isGrid: true,
+          data: ["Android Java ", "IOS ( Swift )", "Java Web", "PrimeFaces"],
+        },
+      },
+    },
+    {
+      company: "Stefanini",
+      active: false,
+      experience: {
+        positionInCompany: "Mobile Developer",
+        admissionDate: "De Julho de 2015 - Jneiro de 2017",
+        locality: "Localidade Brasília, Distrito Federal, Brasil",
+        description: {
+          isGrid: true,
+          data: ["Windows Phone( C# )", "Android Java "],
+        },
+      },
+    },
+  ],
 };

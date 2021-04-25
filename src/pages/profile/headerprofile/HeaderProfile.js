@@ -1,5 +1,4 @@
 import { Constants } from "../../../assets/const/Constants";
-
 import Fade from "react-reveal/Fade";
 
 function HeaderProfile() {

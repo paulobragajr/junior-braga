@@ -1,0 +1,13 @@
+.title{
+    font-size: 10;
+    margin-top: 10px;
+    color: var(--slate);
+    line-height: 0.9;
+    /* font-size: clamp(40px, 8vw, 80px); */
+    font-weight: 600;
+    color: var(--text-secondary);
+}
+
+.detail{
+   font-size: 10;
+}

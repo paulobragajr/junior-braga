@@ -1,11 +1,19 @@
 import "./Profile.css";
 import HeaderProfile from "./headerprofile/HeaderProfile";
 import AboutMe from "./aboutme/AboutMe";
-import { JBHeader } from "../../components";
-import Social from "../../components/social/Social";
-import Skills from "../../components/skills/Skills";
+import { JBHeader, Social } from "../../components";
+import Experience from "./experience/Experience";
 
 function Profile() {
+  const Section = (props, { id }) => {
+    return (
+      <section id={id}>
+        <div class="container">
+          <div class="row">{props.children}</div>
+        </div>
+      </section>
+    );
+  };
   return (
     <div className="profile_contianer">
       <JBHeader />
@@ -18,23 +26,17 @@ function Profile() {
         </div>
       </header>
 
-      <section id="about">
-        <div class="container">
-          <div class="row">
-            <AboutMe />
-          </div>
-        </div>
-      </section>
+      <Section id="about">
+        <AboutMe />
+      </Section>
 
-      <section id="contact">
-        <div class="container ">
-          <div class="row">
-            <div class="col-lg-12 ml-auto text-center">
-              <Social />
-            </div>
-          </div>
-        </div>
-      </section>
+      <Section id="experience">
+        <Experience />
+      </Section>
+
+      <Section id="contact">
+        <Social />
+      </Section>
     </div>
   );
 }

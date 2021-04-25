@@ -1,7 +1,7 @@
 import { Constants } from "../../../assets/const/Constants";
 import "./AboutMe.css";
 import Fade from "react-reveal/Fade";
-import Skills from "../../../components/skills/Skills";
+import Skills from "../skills/Skills";
 
 function AboutMe() {
   var date = new Date();
@@ -15,6 +15,7 @@ function AboutMe() {
           <div class="w3-col w3-container left">
             <p class="text-faded mb-4 txt_detail">{aboutMe}</p>
           </div>
+
           <div class="w3-rest w3-container">
             <div className="img">
               <img
