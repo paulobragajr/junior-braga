@@ -15,15 +15,15 @@ export const Constants = {
   socialMedia: [
     {
       name: "GitHub",
-      url: "https://github.com/juninhork",
+      url: "https://github.com/paulobragajr",
     },
     {
       name: "Instagram",
-      url: "https://www.instagram.com/juninhork/",
+      url: "https://www.instagram.com/paulobraga_jr/",
     },
     {
       name: "Twitter",
-      url: "https://twitter.com/juninhork",
+      url: "https://twitter.com/paulobraga_jr",
     },
     {
       name: "Linkedin",
