@@ -42,11 +42,24 @@ export const Constants = {
 
   experiences: [
     {
-      company: "Stefanini",
+      company: "Banco Original",
       active: true,
       experience: {
+        positionInCompany: "Mobile Specialist",
+        admissionDate: "De Setembro de 2021 - até o momento",
+        locality: "São Paulo, Brasil",
+        description: {
+          isGrid: true,
+          data: ["Android Kotlin"],
+        },
+      },
+    },
+    {
+      company: "Stefanini",
+      active: false,
+      experience: {
         positionInCompany: "Mobile Development Leader",
-        admissionDate: "De Setembro de 2019 - até o momento",
+        admissionDate: "De Setembro de 2019 - Setembro de 2021",
         locality: "Brasília, Distrito Federal, Brasil",
         description: {
           isGrid: false,
@@ -61,7 +74,7 @@ export const Constants = {
       active: false,
       experience: {
         positionInCompany: "Mobile & Web Developer",
-        admissionDate: "De Setembro de 2018 - até o momento",
+        admissionDate: "De Setembro de 2018 - Setembro de 2021",
         locality: "Brasília, Distrito Federal, Brasil",
         description: {
           isGrid: true,
