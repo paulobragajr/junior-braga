@@ -49,8 +49,10 @@ export const Constants = {
         admissionDate: "De Setembro de 2021 - até o momento",
         locality: "São Paulo, Brasil",
         description: {
-          isGrid: true,
-          data: ["Android Kotlin"],
+          isGrid: false,
+          data: [
+            "Atuando no aplicativo de varejo , com as tecnologias Android Nativo (Kotlin) e híbrido (IONIC).",
+          ],
         },
       },
     },
