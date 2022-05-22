@@ -4,10 +4,10 @@ export const Constants = {
     "Sou Paulo Junior, venho atuando na área de desenvolvimento a mais de ",
 
   about_me1:
-    " anos, com a maior parte voltada na área de desenvolvimento mobile ," +
-    "principalmente na plataforma Android , atuei e tenho atuado em " +
+    " anos, com a maior parte voltada na área de desenvolvimento mobile, " +
+    "principalmente na plataforma Android, atuei e tenho atuado em " +
     "projetos de grande e pequeno porte, para empresas privadas e " +
-    "públicas . Meu objetivo profissional é vencer minhas limitações " +
+    "públicas. Meu objetivo profissional é vencer minhas limitações " +
     "e minhas metas, assumir uma postura de liderança e apoio ao " +
     "desenvolvimento, buscando conhecimento de novas tecnologias e " +
     "metodologias de processos.",
