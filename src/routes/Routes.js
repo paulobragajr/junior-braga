@@ -8,7 +8,7 @@ function Routes() {
   return (
     <BrowserRouter basename="/junior-braga">
       <Switch>
-        <Route exact path="/" component={Profile} />{" "}
+        <Route exact path="/" component={Adav} />{" "}
         <Route exact path="/curriculo" component={Curriculo} />{" "}
         <Route exact path="/adav" component={Adav} />{" "}
       </Switch>
