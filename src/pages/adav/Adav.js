@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/iframe-has-title */
 import './Adav.css';
-// import SocialFollow from './component/socialfollow/SocialFollow';
 
 function Adav() {
   return (
