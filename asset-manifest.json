@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/junior-braga/static/css/main.803a5c3c.chunk.css",
-    "main.js": "/junior-braga/static/js/main.c81fa64b.chunk.js",
-    "main.js.map": "/junior-braga/static/js/main.c81fa64b.chunk.js.map",
+    "main.js": "/junior-braga/static/js/main.a745218a.chunk.js",
+    "main.js.map": "/junior-braga/static/js/main.a745218a.chunk.js.map",
     "runtime-main.js": "/junior-braga/static/js/runtime-main.0da55ddb.js",
     "runtime-main.js.map": "/junior-braga/static/js/runtime-main.0da55ddb.js.map",
     "static/js/2.cd59bfbd.chunk.js": "/junior-braga/static/js/2.cd59bfbd.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.0da55ddb.js",
     "static/js/2.cd59bfbd.chunk.js",
     "static/css/main.803a5c3c.chunk.css",
-    "static/js/main.c81fa64b.chunk.js"
+    "static/js/main.a745218a.chunk.js"
   ]
 }
