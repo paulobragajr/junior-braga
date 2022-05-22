@@ -8,8 +8,8 @@ function Adav() {
       <header className="masthead text-white d-flex">
         <div class="container my-auto">
           <div className="header_adav">
-            <h2 className="txt_primary">Abraçando Vidas</h2>
-            <h3 className="txt_secondary">Uma igreja que abraça e ama.</h3>
+            <h2 className="txt_primary1">Abraçando Vidas</h2>
+            <h3 className="txt_secondary1">Uma igreja que abraça e ama.</h3>
 
             <p className="txt_verse">
             Estando ainda longe, seu pai o viu e, cheio de compaixão, correu para seu filho, e o abraçou e beijou.
@@ -22,10 +22,10 @@ function Adav() {
 
       <section className="about_me_section">
         <div className="about_me">
-            <h1>Quem Somos</h1>
+            <h1 className='text'>Quem Somos</h1>
             <hr/>
             <p className="about_me_sbutitle"> TEMOS UM LUGAR PARA VOCÊ</p>
-            <p className='about_me_description'> 
+            <p className='text about_me_description'> 
             A Igreja Abraçando Vidas é uma igreja que se reúne em vários locais; composto de pessoas com todas as histórias que você pode imaginar que estão se esforçando para ser 'Pessoas que ajudão pessoas a encontrar e seguir Jesus'. Não importa onde você esteja em sua jornada, você está convidado a descobrir o propósito que Jesus tem para sua vida.</p>
         </div>
       </section>
@@ -74,8 +74,8 @@ function Adav() {
 
       <section className="image_bible">
           <div className="image">
-            <h1 >Plano de Leitura</h1>
-            <p >Desejar entrar no nosso plano de leitura?</p>
+            <h1 className='text'>Plano de Leitura</h1>
+            <p className='text'>Desejar entrar no nosso plano de leitura?</p>
             <a href="https://chat.whatsapp.com/J5loF2rGRPt4WG9lpbvwgb" target="_parent">
             <button  class="button button-primary" type="submit">Entrar</button>
             </a>
